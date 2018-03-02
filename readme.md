@@ -6,3 +6,4 @@
 
 1. Firefox - [https://addons.mozilla.org/en-US/firefox/addon/let-me-copy/](https://addons.mozilla.org/en-US/firefox/addon/let-me-copy/)
 2. Chrome - [https://chrome.google.com/webstore/detail/let-me-copy/iminljodelcedhhoidinedbcfabpapfp](https://chrome.google.com/webstore/detail/let-me-copy/iminljodelcedhhoidinedbcfabpapfp)
+3. user script for greasemonkey/tampermonkey - [https://raw.githubusercontent.com/chenxsan/let-me-copy/master/let-me-copy.user.js](https://raw.githubusercontent.com/chenxsan/let-me-copy/master/let-me-copy.user.js)
